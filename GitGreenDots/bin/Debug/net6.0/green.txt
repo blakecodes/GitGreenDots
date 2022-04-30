@@ -31,3 +31,4 @@ Monday, January 10, 2022 6:00:00 AM-4
 Monday, January 10, 2022 6:00:00 AM-5 
 Monday, January 10, 2022 6:00:00 AM-6 
 Monday, January 10, 2022 6:00:00 AM-7 
+Tuesday, January 11, 2022 6:00:00 AM-0 
