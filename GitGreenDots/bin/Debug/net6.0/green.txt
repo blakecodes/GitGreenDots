@@ -70,3 +70,4 @@ Friday, January 28, 2022 6:00:00 AM-0
 Friday, January 28, 2022 6:00:00 AM-1 
 Saturday, January 29, 2022 6:00:00 AM-0 
 Sunday, January 30, 2022 6:00:00 AM-0 
+Tuesday, February 1, 2022 6:00:00 AM-0 
