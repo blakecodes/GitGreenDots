@@ -9,3 +9,4 @@ Monday, January 2, 2023 6:00:00 AM
 Tuesday, January 3, 2023 6:00:00 AM 
 Wednesday, January 4, 2023 6:00:00 AM 
 Thursday, January 5, 2023 6:00:00 AM 
+Friday, January 6, 2023 6:00:00 AM 
