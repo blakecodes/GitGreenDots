@@ -10,3 +10,4 @@ Friday, January 27, 2023 6:00:00 AM
 Saturday, January 28, 2023 6:00:00 AM 
 Sunday, January 29, 2023 6:00:00 AM 
 Monday, January 30, 2023 6:00:00 AM 
+Tuesday, January 31, 2023 6:00:00 AM 
