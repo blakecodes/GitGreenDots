@@ -19,3 +19,4 @@ Wednesday, February 8, 2023 6:00:00 AM
 Thursday, February 9, 2023 6:00:00 AM 
 Friday, February 10, 2023 6:00:00 AM 
 Saturday, February 11, 2023 6:00:00 AM 
+Sunday, February 12, 2023 6:00:00 AM 
