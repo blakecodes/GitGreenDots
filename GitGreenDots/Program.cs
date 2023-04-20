@@ -2,7 +2,7 @@
 
 var currentDayOfYear = DateTime.Now.DayOfYear;
 
-for (int i = 0; i < 365; i++)
+for (int i = 0; i < currentDayOfYear; i++)
 {
     Process cmd = new Process();
     cmd.StartInfo.FileName = "cmd.exe";
@@ -10,13 +10,13 @@ for (int i = 0; i < 365; i++)
     cmd.StartInfo.RedirectStandardOutput = true;
     cmd.StartInfo.CreateNoWindow = false;
     cmd.StartInfo.UseShellExecute = false;
-    cmd.Start(); // Start the processs ss
+    cmd.Start();
     
     Console.WriteLine("-----------------------------");
     Console.WriteLine($"Processing Day {i}");
     Console.WriteLine("-----------------------------");
 
-    var dateUsed = new DateTime(DateTime.Now.AddYears(-1).Year, 1, 1).AddDays(i).ToString("U");
+    var dateUsed = new DateTime(DateTime.Now.Year, 1, 1).AddDays(i).ToString("U");
     
     var random = new Random().Next(0, 5);
 

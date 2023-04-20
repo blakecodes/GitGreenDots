@@ -11,3 +11,13 @@ Without taking into account the complexity of problems I was working on, they pr
 The memory of this came back recently so I decided I would write a script to generate a bunch of fake commits to make my commit chart look green and to prove that commit count is a worthless metric. 
 
 One commit could have a single character change that had a larger impact than 200 commits across weeks. Don't use your developers commit count as a metric for their performance, if you do, send them this script first ;) 
+
+
+### Instructions
+
+1. Fork the repo into your git account
+2. Clone the repo to your local machine
+3. Run the script
+4. Push the changes to your repo
+5. Watch your commit chart turn green 🤑
+6. Flex on your manager
